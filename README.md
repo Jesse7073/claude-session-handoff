@@ -25,7 +25,7 @@ git clone https://github.com/Jesse7073/claude-session-handoff.git ~/.claude/skil
 
 ```text
 /handoff
-/handoff 下次從 Dockerfile 開始
+/handoff 下次從 XX step 開始
 ```
 
 開新 session 後輸入：
