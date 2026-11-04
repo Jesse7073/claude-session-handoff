@@ -1,4 +1,4 @@
-# claude-handoff-skill
+# claude-session-handoff
 
 Claude Code 的 `/handoff` skill。結束工作前輸入 `/handoff`，它會更新專案的 `docs/handoff.md`，讓新的 session 不靠舊對話也能接手。
 
@@ -16,7 +16,7 @@ Claude Code 的 `/handoff` skill。結束工作前輸入 `/handoff`，它會更�
 個人使用（所有專案都能用）：
 
 ```bash
-git clone https://github.com/Jesse7073/claude-handoff-skill.git ~/.claude/skills/handoff
+git clone https://github.com/Jesse7073/claude-session-handoff.git ~/.claude/skills/handoff
 ```
 
 只給單一專案使用時，改放在專案的 `.claude/skills/handoff`。
