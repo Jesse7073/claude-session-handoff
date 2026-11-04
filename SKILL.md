@@ -1,6 +1,6 @@
 ---
-name: handoff
-description: 結束工作前更新專案的 docs/handoff.md，讓下個 session 不靠舊對話也能接手。只在使用者輸入 /handoff 時執行。
+name: claude-session-handoff
+description: 結束工作前更新專案的 docs/handoff.md，讓下個 session 不靠舊對話也能接手。只在使用者輸入 /claude-session-handoff 時執行。
 argument-hint: "[下個 session 要做的事]"
 disable-model-invocation: true
 ---
